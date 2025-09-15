@@ -1,4 +1,4 @@
-# -Auto-Rental
+# Auto-Rental
 Predict &amp; prevent ride cancellations at Auto Rental
 
 # Auto Rental — Ride Cancellation Prediction
